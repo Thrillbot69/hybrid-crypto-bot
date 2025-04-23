@@ -1,0 +1,12 @@
+{
+    "DOGE": {"strategy": "RSI", "allocation": 0.12},
+    "SHIB": {"strategy": "RSI", "allocation": 0.10},
+    "BONK": {"strategy": "RSI", "allocation": 0.10},
+    "PEPE": {"strategy": "Scalper", "allocation": 0.14},
+    "FLOKI": {"strategy": "RSI", "allocation": 0.08},
+    "ETH": {"strategy": "RSI", "allocation": 0.16},
+    "ARB": {"strategy": "Scalper", "allocation": 0.10},
+    "SOL": {"strategy": "Scalper", "allocation": 0.10},
+    "MATIC": {"strategy": "Scalper", "allocation": 0.07},
+    "TRX": {"strategy": "RSI", "allocation": 0.03}
+}
